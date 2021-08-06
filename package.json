@@ -55,7 +55,7 @@
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
     "morgan": "^1.10.0",
-    "mssql": "^6.3.1",
+    "mssql": "^7.2.0",
     "nanoid": "^3.1.20",
     "next": "^10.0.8",
     "next-absolute-url": "^1.2.2",
