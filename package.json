@@ -45,7 +45,7 @@
     "db-migrate-mssql": "^2.1.0",
     "dotenv-load": "^2.0.0",
     "express": "^4.17.1",
-    "google-libphonenumber": "^3.2.18",
+    "google-libphonenumber": "^3.2.25",
     "isomorphic-unfetch": "^3.0.0",
     "jest": "^26.4.2",
     "jest-css-modules-transform": "^4.2.0",
