@@ -47,7 +47,7 @@
     "express": "^4.17.1",
     "google-libphonenumber": "^3.2.18",
     "isomorphic-unfetch": "^3.0.0",
-    "jest": "^26.4.2",
+    "jest": "^27.4.4",
     "jest-css-modules-transform": "^4.2.0",
     "jsonwebtoken": "^8.5.1",
     "mockdate": "^2.0.5",
